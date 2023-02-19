@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: skyblue;
+    border-style: solid;
+}
+
+.container{
+    display: inline-block;
+    padding: 10px;
+}
+
+img:hover{
+    transform: rotateX(180deg);
+}
